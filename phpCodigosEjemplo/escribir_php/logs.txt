@@ -1,0 +1,4 @@
+20170421 13:04:45 El Archivo logs.txt se ha creado
+20170421 13:04:48 El Archivo logs.txt se ha modificado
+20170421 13:04:40 El Archivo logs.txt se ha modificado
+20170421 13:04:41 El Archivo logs.txt se ha modificado
